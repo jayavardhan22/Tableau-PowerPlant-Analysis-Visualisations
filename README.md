@@ -33,7 +33,7 @@ The Tableau dashboard answers the following key analytical questions:
 5. **How has renewable energy capacity changed year by year, and which years saw the most growth or decline?**  
 
 ## 📊 Dashboard Preview  
-! Refer the pptx file.
+! Refer the pptx file uploaded in CA01-Data_Visualisation-Tableau 2.
 
 ## 🌍 Live Tableau Dashboard  
 🔗 (https://public.tableau.com/app/profile/jayavardhan.premnath/vizzes)  ]
